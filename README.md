@@ -20,7 +20,11 @@
 <hr>
 
 <div class="project">
-  ![Animated gif pacman game](http://ai.berkeley.edu/images/pacman_game.gif)
+  
+  <p align="center">
+<img src="http://ai.berkeley.edu/images/pacman_game.gif" alt="masiiie"/> 
+</p>
+
   
   <h3><a name="Introduction"></a>Introduction</h3>
   <p>In this project, your Pacman agent will find paths through his 
